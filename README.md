@@ -18,6 +18,6 @@ This repository contains all project management documentation related to the imp
 
 ---
 
-## 🚀 Project Objective
+##  Project Objective
 
 The goal is to define and manage the execution of a project for **secure migration to the cloud**, protecting critical data and ensuring compliance with security standards
