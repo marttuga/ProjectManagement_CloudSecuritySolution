@@ -14,7 +14,7 @@ This repository contains all project management documentation related to the imp
 - [Project Schedule](03_Project_Schedule.md): Task planning with durations, dates, and assigned resources.
 - [Budget Estimate](04_Budget_Estimate.md): Cost estimation for the project.
 - [WBS (Work Breakdown Structure)](05_Work_Breakdown_Structure.md): Breakdown of the project into manageable components.
-- [Risk Register (optional)](06_Risk_Register.md): Risk identification and planning (if applicable).
+- [Risk Register](06_Risk_Register.md): Risk identification and planning (if applicable).
 
 ---
 
